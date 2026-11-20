@@ -8,8 +8,6 @@
 A desktop application that converts **DeepSeek** and **Qwen** chat exports
 from JSON into clean, readable Markdown files.
 
-![Screenshot](docs/screenshots/main_window.png)
-
 ## Features
 
 - **PySide6 (Qt) GUI** — modern Fusion-styled interface
@@ -86,7 +84,7 @@ python export.py
 ## Project Structure
 
 ```
-chat-json-to-md/
+json_md_converter/
 ├── export.py          # The whole app: parsers + GUI + conversion thread
 ├── requirements.txt   # PySide6
 ├── docs/
