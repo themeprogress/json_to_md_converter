@@ -84,7 +84,7 @@ python export.py
 ## Project Structure
 
 ```
-json_md_converter/
+json_to_md_converter/
 ├── export.py          # The whole app: parsers + GUI + conversion thread
 ├── requirements.txt   # PySide6
 ├── docs/
